@@ -1,0 +1,5 @@
+{
+  "name": "Student admission form",
+  "description": "A modern, interactive student enrollment form that uses Gemini to auto-generate student bios based on their name and major.",
+  "requestFramePermissions": []
+}
